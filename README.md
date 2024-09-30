@@ -1,1 +1,1 @@
-#These are solutions to some certain programming problems on the codefores website 
+#These are solutions to some certain programming problems on the codeforces website 
